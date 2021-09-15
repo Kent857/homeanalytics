@@ -5,7 +5,7 @@
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "node index.js"
+    "start": "Assignment_V19_MB_170521.py"
   },
   "author": "",
   "license": "ISC",
